@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nru:home|Door43 (nru)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nru|d43-nru repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nru/archive/master.zip|d43-nru.zip]]
+
+**Recent Changes**
+{{changes>ns = nru}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nru|Ethnologue data]]
+
